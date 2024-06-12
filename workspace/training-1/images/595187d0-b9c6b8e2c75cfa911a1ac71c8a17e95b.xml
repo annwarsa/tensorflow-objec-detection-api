@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>595187d0-b9c6b8e2c75cfa911a1ac71c8a17e95b.jpeg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>800</width>
+<height>800</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Indomie Ayam Bawang (69g)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>15</xmin>
+<ymin>145</ymin>
+<xmax>787</xmax>
+<ymax>716</ymax>
+</bndbox>
+</object>
+</annotation>

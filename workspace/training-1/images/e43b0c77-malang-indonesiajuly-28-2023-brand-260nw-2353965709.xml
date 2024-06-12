@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>e43b0c77-malang-indonesiajuly-28-2023-brand-260nw-2353965709.webp</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>347</width>
+<height>280</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Roma Marie Gold (240g)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>2</xmin>
+<ymin>33</ymin>
+<xmax>329</xmax>
+<ymax>182</ymax>
+</bndbox>
+</object>
+</annotation>

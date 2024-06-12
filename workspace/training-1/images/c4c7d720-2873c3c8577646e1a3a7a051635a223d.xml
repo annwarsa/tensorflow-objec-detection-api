@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>c4c7d720-2873c3c8577646e1a3a7a051635a223d.jpeg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>800</width>
+<height>800</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Roma Marie Gold (240g)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>42</xmin>
+<ymin>222</ymin>
+<xmax>752</xmax>
+<ymax>562</ymax>
+</bndbox>
+</object>
+</annotation>

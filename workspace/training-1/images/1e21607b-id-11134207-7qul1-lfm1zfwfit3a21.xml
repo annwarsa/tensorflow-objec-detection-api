@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>1e21607b-id-11134207-7qul1-lfm1zfwfit3a21.jpeg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>800</width>
+<height>800</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Bear Brand Susu Steril (189ml)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>6</xmin>
+<ymin>275</ymin>
+<xmax>255</xmax>
+<ymax>788</ymax>
+</bndbox>
+</object>
+<object>
+<name>Bear Brand Susu Steril (189ml)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>230</xmin>
+<ymin>104</ymin>
+<xmax>481</xmax>
+<ymax>605</ymax>
+</bndbox>
+</object>
+<object>
+<name>Bear Brand Susu Steril (189ml)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>340</xmin>
+<ymin>0</ymin>
+<xmax>374</xmax>
+<ymax>9</ymax>
+</bndbox>
+</object>
+<object>
+<name>Bear Brand Susu Steril (189ml)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>486</xmin>
+<ymin>54</ymin>
+<xmax>708</xmax>
+<ymax>544</ymax>
+</bndbox>
+</object>
+</annotation>

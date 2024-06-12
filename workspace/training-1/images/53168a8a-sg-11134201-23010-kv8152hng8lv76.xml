@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>53168a8a-sg-11134201-23010-kv8152hng8lv76.jpeg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>1024</width>
+<height>1024</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Yakult (325ml)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>12</xmin>
+<ymin>357</ymin>
+<xmax>998</xmax>
+<ymax>790</ymax>
+</bndbox>
+</object>
+</annotation>

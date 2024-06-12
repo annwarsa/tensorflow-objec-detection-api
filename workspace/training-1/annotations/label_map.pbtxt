@@ -1,0 +1,24 @@
+item {
+    id: 1
+    name: 'Indomie Ayam Bawang (69g)'
+}
+
+item {
+    id: 2
+    name: 'Yakult (325ml)'
+}
+
+item {
+    id: 3
+    name: 'Bear Brand Susu Steril (189ml)'
+}
+
+item {
+    id: 4
+    name: 'Roma Marie Gold (240g)'
+}
+
+item {
+    id: 5
+    name: 'Astor Chocolate (40g)'
+}

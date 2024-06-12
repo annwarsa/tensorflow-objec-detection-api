@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>25b5ae22-7830312_3f2b0089-a73c-4b29-b84b-39025a1b75e0_1129_1129.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>700</width>
+<height>700</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Astor Chocolate (40g)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>349</xmin>
+<ymin>171</ymin>
+<xmax>699</xmax>
+<ymax>698</ymax>
+</bndbox>
+</object>
+<object>
+<name>Astor Chocolate (40g)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>0</xmin>
+<ymin>171</ymin>
+<xmax>340</xmax>
+<ymax>699</ymax>
+</bndbox>
+</object>
+</annotation>

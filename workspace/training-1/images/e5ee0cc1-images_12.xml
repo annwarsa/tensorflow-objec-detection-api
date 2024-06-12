@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>e5ee0cc1-images_12.jpeg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>271</width>
+<height>186</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Yakult (325ml)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>0</xmin>
+<ymin>5</ymin>
+<xmax>136</xmax>
+<ymax>60</ymax>
+</bndbox>
+</object>
+<object>
+<name>Yakult (325ml)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>137</xmin>
+<ymin>9</ymin>
+<xmax>268</xmax>
+<ymax>69</ymax>
+</bndbox>
+</object>
+<object>
+<name>Yakult (325ml)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1</xmin>
+<ymin>63</ymin>
+<xmax>135</xmax>
+<ymax>115</ymax>
+</bndbox>
+</object>
+<object>
+<name>Yakult (325ml)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>140</xmin>
+<ymin>65</ymin>
+<xmax>263</xmax>
+<ymax>117</ymax>
+</bndbox>
+</object>
+</annotation>
